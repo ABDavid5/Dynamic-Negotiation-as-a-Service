@@ -1,3 +1,4 @@
+Scenario 1: Shivani is looking for a carpet on Flipkart
 seller_name = Kuber industries
 client_name = Flipkart
 product_name = red velvet 10x10
@@ -6,7 +7,12 @@ floor_price = 299
 listing_link = https://dl.flipkart.com/dl/kuber-industries-red-velvet-runner/p/itmadae15c993d15?pid=CPGFFEHAPJFWU6AC&cmpid=product.share.pp&_refId=PP.6c027b96-a7ae-4773-a0c1-fadc0f2b3bc7.CPGFFEHAPJFWU6AC&_appId=WA
 customer_name = Shivani
 
+Chat = 
+https://n1ndf.vercel.app/flpkrt142
 
+-------------------------------------------------------------
+
+Scenario 2: Nilesh is considering a pair of earbuds on Amazon
 seller_name = Mivi
 client_name = Amazon
 product_name = wireless earbuds
@@ -14,3 +20,6 @@ quoted_price = 6999
 floor_price = 3999
 listing_link = https://amzn.in/d/4c1VAQW
 customer_name = Nilesh
+
+Chat =
+https://n1ndf.vercel.app/amzn413
